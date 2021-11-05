@@ -1,3 +1,5 @@
+### An updated version of this bot to the latest Discord.js V13 can be found here: https://treboryx.gumroad.com/l/discord-protection-bot
+
 ### Anti-bot built using discord.js and SQLite
 Easy-to-use discord bot that will protect your server from bots with captcha. All you have to do is use the setup command and you'll be protected from spam bots within just a few minutes.
 
