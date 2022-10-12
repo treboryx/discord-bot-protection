@@ -13,6 +13,6 @@
     "discord.js": "^11.5.0",
     "sqlite3": "^4.0.9",
     "svg-captcha": "^1.4.0",
-    "svg2img": "^0.6.0"
+    "svg2img": "^1.0.0-beta.2"
   }
 }
